@@ -1,5 +1,5 @@
 <?php
-class TaskerException extend \Exception {
+class TaskerException extends \Exception {
 
 }
 ?>
